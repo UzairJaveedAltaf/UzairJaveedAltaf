@@ -3,7 +3,7 @@
 # Hey There 👋, I'm Uzair Javeed Altaf
 ### CSE (AI) Undergrad @ MJCET · Machine Learning Enthusiast · 
 
-[![[LinkedIn](https://www.linkedin.com/in/uzair-javeed-altaf-322115416/)](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-javeed-altaf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-javeed-altaf-322115416/)
 
 </div>
 
